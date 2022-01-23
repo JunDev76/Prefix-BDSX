@@ -1,0 +1,19 @@
+{
+  "name": "@bdsx/prefix-korean",
+  "version": "1.0.0",
+  "description": "Implement \"Prefix\"! Korean version",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JunDev76/JunPrefix-BDSX-kor.git"
+  },
+  "author": "JunDev76",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/JunDev76/JunPrefix-BDSX-kor/issues"
+  },
+  "homepage": "https://github.com/JunDev76/JunPrefix-BDSX-kor#readme"
+}
